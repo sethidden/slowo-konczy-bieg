@@ -1,0 +1,11 @@
+# github pages config, see https://3nuc.github.io/slowo-konczy-bieg/
+lsi: false
+safe: true
+source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
