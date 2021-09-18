@@ -1,2 +1,6 @@
 # slowo-konczy-bieg
-Lista słów, które powinny zostać usunięte
+Lista słów/związków fraz., które powinny zostać usunięte:
+* serducho
+* szara eminencja
+* wierchuszka
+* karabińczyk
